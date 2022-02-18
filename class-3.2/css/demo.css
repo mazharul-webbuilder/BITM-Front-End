@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    background-color: yellow;
+    box-sizing: border-box;
+    /*padding: 5PX 200px;*/
+    margin: 0;
+    text-align: center;
+}
+.div-one{
+    height: 300px;
+    width: 400px;
+    background-color: seagreen;
+    float: left;
+    /*margin-right: 5px;*/
+}
+.div-two{
+    height: 400px;
+    width: 500px;
+    background-color: gray;
+    float: left;
+}
+.div-three{
+    height: 500px;
+    width: 200px;
+    background-color: red;
+    float: left;
+}
