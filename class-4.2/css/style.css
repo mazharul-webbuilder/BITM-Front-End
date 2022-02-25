@@ -1,0 +1,94 @@
+.section1-column h1{
+    color: white;
+    background-color: #595959;
+    letter-spacing: 10px;
+    font-family: arial;
+    font-size: 30px;
+    width: 42%;
+    margin: auto;
+    text-align: center;
+    padding: 20px 10px;
+    position: -webkit-sticky;
+    position: sticky;
+
+
+}
+
+.section1{
+    opacity: 0.7;
+    position: sticky;
+}
+.section1-column{
+    background-image: url("../image/banner1.jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: sticky;
+
+}
+.section1-column h1{
+    position: relative;
+    top: 270px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.section2{
+    background-image: url("../image/banner2.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    opacity: 0.7;
+}
+
+.section2 .content {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 40px 10px;
+    color: rgb(102,102,102);
+    background-color: white;
+    position: absolute;
+
+}
+
+.section2 .content h1{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.section2 .content p{
+    text-align: center;
+}
+.sec2{
+    background-color: white;
+
+}
+.section2 .content h3{
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 350px;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+
+    width: 28%;
+    background-color: #595959;
+    font-family: Arial;
+    letter-spacing: 6px;
+}
+.content h3{
+    padding: 10px 5px;
+
+}
+

@@ -1,0 +1,25 @@
+/*Section one design*/
+.sec-one{
+    background-color: black;
+}
+.sec-one .sec-one-wrapper{
+    width: 98%;
+}
+.sec-one .sec-one-wrapper ul{
+    list-style-type: none ;
+}
+.sec-one .sec-one-wrapper ul li{
+    float: left;
+}
+.sec-one .sec-one-wrapper ul li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-family: lato,sens-serif;
+    text-transform: uppercase;
+    padding: 13px 25px;
+    text-align: center;
+}
+.sec-one .sec-one-wrapper ul li a:hover{
+    background-color: silver;
+}

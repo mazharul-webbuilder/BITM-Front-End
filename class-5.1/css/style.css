@@ -1,0 +1,93 @@
+/*image common property*/
+[class *= 'col-']{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    cursor: grab;
+
+}
+
+section{
+    background-color: tomato;
+}
+
+/*image input in every column in section 1*/
+.img-s1-1{background-image: url('../image/1.jpg');}
+.img-s1-2{background-image: url('../image/s1-2.jpeg');}
+.img-s1-3{background-image: url('../image/s1-3.jpeg');}
+.img-s1-4{background-image: url('../image/s1-5.jpeg');}
+.img-s1-5{background-image: url('../image/s1-4.jpeg');}
+.img-s1-6{background-image: url('../image/s1-6.jpeg');}
+.img-s1-7{background-image: url('../image/s1-7.jpeg');}
+.img-s1-8{background-image: url('../image/s1-8.jpeg');}
+.img-s1-9{background-image: url('../image/s1-9.jpeg');}
+.img-s1-10{background-image: url('../image/s1-10.jpeg');}
+.img-s1-11{background-image: url('../image/s1-11.jpeg');}
+.img-s1-12{background-image: url('../image/s1-12.jpeg');}
+
+/*image input in every column in section 2*/
+.img-s2-1{background-image: url("../image/s2-1.jpeg");}
+.img-s2-2{background-image: url("../image/s2-2.jpeg");}
+.img-s2-3{background-image: url("../image/s2-3.jpeg");}
+.img-s2-4{background-image: url("../image/s2-4.jpeg");}
+.img-s2-5{background-image: url("../image/s2-5.jpeg");}
+.img-s2-6{background-image: url("../image/s2-6.jpeg");}
+
+/*image input in every column in section 3*/
+.img-s3-1{background-image: url("../image/s3-4.jpeg");}
+.img-s3-2{background-image: url("../image/s3-2.jpeg");}
+.img-s3-3{background-image: url("../image/s3-3.jpeg");}
+.img-s3-4{background-image: url("../image/s3-1.jpeg");}
+
+/*image input in every column in section 4*/
+.img-s4-1{background-image: url("../image/s4-1.jpeg");}
+.img-s4-2{background-image: url("../image/s4-3.jpeg");}
+.img-s4-3{background-image: url("../image/s4-2.jpeg");}
+
+/*image input in every column in section 5*/
+.img-s5-1{background-image: url("../image/s5-1.jpeg");}
+.img-s5-2{background-image: url("../image/s5-2.jpeg");}
+
+/*image input in every column in section 6*/
+.img-s6-1{
+    background-image: url("../image/img-s6-11.jpeg");
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+}
+
+/*-------------------------------------*/
+.img-s1-1:hover{transform: Scale(0.95);}
+.img-s1-2:hover{transform: Scale(0.95);}
+.img-s1-3:hover{transform: Scale(0.95);}
+.img-s1-4:hover{transform: Scale(0.95);}
+.img-s1-5:hover{transform: Scale(0.95);}
+.img-s1-6:hover{transform: Scale(0.95);}
+.img-s1-7:hover{transform: Scale(0.95);}
+.img-s1-8:hover{transform: Scale(0.95);}
+.img-s1-9:hover{transform: Scale(0.95);}
+.img-s1-10:hover{transform: Scale(0.95);}
+.img-s1-11:hover{transform: Scale(0.95);}
+.img-s1-12:hover{transform: Scale(0.95);}
+
+
+.img-s2-1:hover{transform: Scale(0.95);}
+.img-s2-2:hover{transform: Scale(0.95);}
+.img-s2-3:hover{transform: scale(0.95);}
+.img-s2-4:hover{transform: Scale(0.95);}
+.img-s2-5:hover{transform: Scale(0.95);}
+.img-s2-6:hover{transform: Scale(0.95);}
+
+
+.img-s3-1:hover{transform: Scale(0.95);}
+.img-s3-2:hover{transform: Scale(0.95);}
+.img-s3-3:hover{transform: Scale(0.95);}
+.img-s3-4:hover{transform: Scale(0.95);}
+
+.img-s4-1:hover{transform: Scale(0.95);}
+.img-s4-2:hover{transform: Scale(0.95);}
+.img-s4-3:hover{transform: Scale(0.95);}
+
+.img-s5-1:hover{transform: Scale(0.95);}
+.img-s5-2:hover{transform: Scale(0.95)}
+
+.img-s6-1:hover{transform: Scale(0.55);}

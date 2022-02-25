@@ -1,0 +1,25 @@
+@media screen and (max-width: 750px) {
+
+.section1-column h1 {
+    width: 70%;
+    padding: 20px 5px;
+    font-size: 21px;
+}
+.section2 .content h3{
+    font-size: 20px;
+    width: 58%;
+}
+}
+
+@media screen and (min-width: 751px) and (max-width: 1160px) {
+
+    .section1-column h1 {
+        width: 60%;
+        padding: 20px 5px;
+        font-size: 27px;
+    }
+    .section2 .content h3{
+        font-size: 24px;
+        width: 68%;
+    }
+}
