@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.sec-one{
+    background-image: url("../image/bannerImage.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.section-1-content{
+    color: #926239;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 200px;
+}
+.section-1-content h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.section-1-content p{
+    font-size: 14px;
+}
+.section-1-content button{
+    border: 1px solid #926239;
+    border-radius: 7px;
+    padding: 12px 22px;
+    color: #926239 ;
+
+}
+.section-1-content button:hover{
+    color: white;
+    background-color: #926239;
+}
+
+/*section two*/
+.sec-two{
+    background-color: #926239;
+    color: white;
+    font-family: Lato;
+    text-align: center;
+    padding: 16px 12px;
+    font-size: 16px;
+
+}
+
+/*section three*/
+.sec-three{
+    background-color: #F4F4F4;
+    color: #926239;
+    text-align: center;
+    padding: 16px 12px;
+    font-size: 16px;
+}
+
+/*section four*/
+.sec-four{
+    text-align: left;
+}
+.section-4-left{
+    background-color: #926239;
+    color: white;
+    padding: 16px 12px;
+}
+.section-4-main{
+    background-color: #F4F4F4;
+    color: #926239;
+    padding: 16px 12px;
+}
+.section-4-right{
+    background-color: #926239;
+    color: white;
+    padding: 16px 12px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+body{
+    background-color: #F0F2F5;
+}
+.content-box{
+
+}
+.facebook-h1{
+    color: #1877F2;
+    font-family: halvetica,sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.facebook-p{
+    color: #1C1E21;
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+    padding-top: 0;
+    margin-top: 0;
+
+}
+.form-box{
+    width: 330px;
+    height: 277px;
+    background-color: white;
+    margin-top: 110px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+
+
+.left{
+    padding-top: 150px;
+    padding-left: 120px;
+}
+.right{
+    padding: 18px;
+}
+.link-style{
+    text-align: center;
+    text-decoration: none;
+    padding-left: 80px;
+
+}
+.btn-design{
+    width: 65%;
+    margin-left: 57px;
+}
+.r-end{
+    color: #1C1E21;
+    font-family: Lato, sans-serif;
+
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 35px;
+}

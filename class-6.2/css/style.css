@@ -1,0 +1,43 @@
+*{
+    color: white; !important;
+}
+
+
+.h-200{height: 200px;}
+.mh-50{height: 50px;}
+.h-500{height: 500px;}
+.h-250{height: 250px;}
+.h-40{height: 40px;}
+/*-----------------------------*/
+.menu{
+    padding: 0;
+    list-style-type: none;
+}
+.menu li{
+    float: left;
+    padding: 12px 15px;
+}
+.menu li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+
+}
+.menu li a:hover{
+    color: tomato;
+    background-color: black;
+}
+
+.menu li ul{
+    padding: 0;
+    list-style-type: none;
+}
+.menu li ul li{
+    float: none;
+    margin-left: 0;
+    padding-left: 0;
+
+
+}
+.menu li ul li a{}
+.menu li ul li a:hover{}

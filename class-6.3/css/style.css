@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner-image{
+    background-image: url("../image/banner1.jpg") ;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+
+
+}
+.logo-setup{
+    height: 40px;
+}
+.banner-h-500{height: 400px}
+
+.my-caption{
+    /*background-color: black;*/
+    /*opacity: 0.4;*/
+    bottom: 130px;
+    width: 500px;
+    color: wheat;
+    font-family: Arial;
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 575px) {
+    .d-mobile-none{
+        display: none;
+    }
+}
+.form-design{
+    border: 1px solid rgb(206,212,218);
+    border-radius: 5px;
+    padding: 50px;
+    outline: 1px solid rgb(189,205,226);
+}
+form, input, label{
+    font-family: Lato;
+    color: #555;
+}
+.fh-50{
+    height: 50px;
+}
