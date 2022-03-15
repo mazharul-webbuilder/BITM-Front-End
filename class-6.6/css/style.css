@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.sec-one{
+    background: rgba(0,0,0,0.5)url("../image/banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    height: 455px;
+
+
+
+
+}
+.section-1-content{
+
+    color: white;
+    text-align: center;
+    width: 70%;
+    padding-top: 130px;
+    opacity: 0.8;
+
+
+}
+.h1-design{
+
+}
+.btn-design{
+    background-color: #2E2F2C;
+    border: 1px solid gray;
+    padding: 15px 38px;
+    color: white;
+    border-radius: initial;
+}
+.btn-design:hover{
+    color: #2E2F2C;
+    background-color: white;
+}
+/*section tow*/
+.sec-two{
+    background-color: rgb(234,234,234);
+}
+.sec-2-h2{
+    text-align: center;
+}
+.section-2-left, .section-2-right{
+    color: #555;
+    margin: auto;
+    text-align: justify-all;
+    padding: 25px;
+    font-family: sans-serif;
+}
+/*section three*/
+
+.sec-wrapper{
+    background-color: #333333;
+    padding-bottom: 25px;
+}
+.sec-three{
+
+    color: #555;
+    width: 65%;
+}
+
+.left-side-bar, .main-bar , .right-sidebar{
+    margin-top: 25px;
+    box-shadow: 8px 8px 5px  black;
+
+}
+
+.inside-1, .inside-2, .inside-3{
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+/*section four*/
+.sec-four{
+    background-color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #555;
+}
+
+.sec-four h2{
+    font-weight: bolder;
+    padding-bottom: 30px;
+    color: #333333;
+}
+.sec-four p{
+    width: 60%;
+    margin: auto;
+    color: #333333;
+}
+
+/*section five*/
+.sec-five{
+    color: white;
+}
+.five-left,.five-right{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.five-right{
+    height: 300px;
+}
+.five-left h2, .five-left p, .five-right h2, .five-right p{
+    text-align: center;
+    width: 90%;
+    padding: 15px;
+}
+
+.sec-six{
+    background-color: #000000;
+    padding: 30px 0;
+
+}
+
+.six-left, .six-right {
+    text-align: center;
+    color: white;
+}
